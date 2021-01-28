@@ -1,10 +1,16 @@
-import ".env"
+import os
+from dotenv import load_dotenv
 from web3 import Web3
 
+#Macros for importing API_KEY (use .env to store)
+load_dotenv()
+API_KEY = os.getenv("API_KEY")
 false = False
 true = True
+
+
 #connects to Infura RPC node
-infura_url = "https://rinkeby.infura.io/v3/{API_KEY}"
+infura_url = "https://rinkeby.infura.io/v3/" + API_KEY
 web3 = Web3(Web3.HTTPProvider(infura_url))
 
 
