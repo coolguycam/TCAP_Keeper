@@ -1,4 +1,5 @@
 import os
+import requests
 from dotenv import load_dotenv
 from web3 import Web3
 
@@ -1215,7 +1216,7 @@ abi = [
 
 address = web3.toChecksumAddress('0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3')
 contract = web3.eth.contract(address=address, abi=abi)
-print(contract.functions.getVault(10).call())
-print(contract.functions.getVaultRatio(10).call())
-print(contract.functions.liquidationReward(10).call())
-print(contract.functions.requiredLiquidationTCAP(10).call())
+print(contract.functions.getVault(3).call())
+print(contract.functions.getVaultRatio(3).call())
+print(contract.functions.liquidationReward(3).call())
+print(contract.functions.requiredLiquidationTCAP(3).call())
