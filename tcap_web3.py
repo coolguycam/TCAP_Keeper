@@ -1,20 +1,12 @@
+import ".env"
 from web3 import Web3
 
 false = False
 true = True
 #connects to Infura RPC node
-infura_url = "https://rinkeby.infura.io/v3/9a9c07c24a2e4d29b8cf711dcd1a1c32"
+infura_url = "https://rinkeby.infura.io/v3/{API_KEY}"
 web3 = Web3(Web3.HTTPProvider(infura_url))
-#some fun checks
-#print(web3.isConnected())
-#print(web3.eth.blockNumber)
 
-#see what we are working with
-#account = "0xa0Bf5b240634918c70d4ec9384DbD0111Ef40B42"
-#balance = web3.eth.getBalance("0xa0Bf5b240634918c70d4ec9384DbD0111Ef40B42")
-#balance2 = web3.fromWei(balance, "ether")
-#print("Wei balance: " + str(balance))
-#print("Ether balance: " + str(balance2))
 
 abi = [
 	{
