@@ -1,20 +1,30 @@
-import os
-import requests
+import os, json, requests
 from dotenv import load_dotenv
 from web3 import Web3
 
-#Macros for importing API_KEY (use .env to store)
+#importing Infura API_KEY (using .env to store) & set True/False macros 
 load_dotenv()
 API_KEY = os.getenv("API_KEY")
 false = False
 true = True
 
+#query the graph api and collect vaultIDs of vaults under 205 currentRatio
+url = "https://api.thegraph.com/subgraphs/name/cryptexglobal/tcap-rinkeby"
+json = {'query': '{vaults(where: {currentRatio_lt:"205", currentRatio_gt:"0"}) { vaultId }}'}
+response = requests.post(url=url, json=json)
+_data = response.json()
+vaults = []
+if _data['data'] == []:
+    print('No vaults with currentRatio under 205')
+else:
+    for n  in _data['data']['vaults']:
+        vaults.append(int(n.get('vaultId')))
 
-#connects to Infura RPC node
+#connecting to Infura RPC node
 infura_url = "https://rinkeby.infura.io/v3/" + API_KEY
 web3 = Web3(Web3.HTTPProvider(infura_url))
 
-
+#TCAP Orchestrator contract abi
 abi = [
 	{
 		"inputs": [
@@ -1214,8 +1224,11 @@ abi = [
 	}
 ]
 
+#Rinkeby testnet contract for TCAP vaults
 address = web3.toChecksumAddress('0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3')
 contract = web3.eth.contract(address=address, abi=abi)
+
+
 print(contract.functions.getVault(3).call())
 print(contract.functions.getVaultRatio(3).call())
 print(contract.functions.liquidationReward(3).call())
