@@ -33,9 +33,9 @@ def keep():
 	BTC_price = WBTC_contract.functions.latestRoundData().call()
 	TCAP_price = TCAP_contract.functions.latestRoundData().call()
 
-	event_filter = mycontract.events.myEvent.createFilter(fromBlock='0', toBlock='latest')
-
-	print(ETH_price[1], DAI_price[1], BTC_price[1], TCAP_price[1])
+	event_filter = contract.events.LogInitializeVault.createFilter(fromBlock=0, toBlock="latest")
+	event_list = event_filter.get_all_entries()
+	print(event_list)
 
 
 
