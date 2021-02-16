@@ -1,0 +1,180 @@
+{
+    "vaults": [
+        {
+            "address": "0x32ab377d1e855335244e25edced2b941b96e2607",
+            "collateral": "2000000000000000000000",
+            "currentRatio": "200",
+            "debt": "15100000000000000000",
+            "owner": "0x6f7397493dc022e909a3d31a63812f4a5f9e7c5e",
+            "vaultId": "3"
+        },
+        {
+            "address": "0x32ab377d1e855335244e25edced2b941b96e2607",
+            "collateral": "100000000000000000000",
+            "currentRatio": "208",
+            "debt": "540000000000000000",
+            "owner": "0x48d7e9b143a3cee16416f6665c5a635fa052a25e",
+            "vaultId": "7"
+        },
+        {
+            "address": "0x661b59e286b4fe1f04920223af161e62ffecce5c",
+            "collateral": "2000000000000000000",
+            "currentRatio": "200",
+            "debt": "365434537309441280000",
+            "owner": "0x08bf8d6fa77f7bc937e62dcb7a5d1201890c48fa",
+            "vaultId": "20"
+        },
+        {
+            "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+            "collateral": "100000000000000000",
+            "currentRatio": "202",
+            "debt": "690000000000000000",
+            "owner": "0x134afcde878cc07e8407d2becde936d3643442f8",
+            "vaultId": "102"
+        },
+        {
+            "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+            "collateral": "36500000000000000000",
+            "currentRatio": "215",
+            "debt": "228000000000000000000",
+            "owner": "0xeecc05af13bf66644b97f1974469f5bf6a6b13a6",
+            "vaultId": "107"
+        },
+        {
+            "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+            "collateral": "50000000000000000",
+            "currentRatio": "208",
+            "debt": "280000000000000000",
+            "owner": "0xa24e93b119f12c81ec5c100624233ff6e824e3bc",
+            "vaultId": "118"
+        },
+        {
+            "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+            "collateral": "500000000000000000",
+            "currentRatio": "219",
+            "debt": "2212957624990217200",
+            "owner": "0x78ea283b810c0d58e99e344486c6be455e623df0",
+            "vaultId": "12"
+        },
+        {
+            "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+            "collateral": "20000000000000000",
+            "currentRatio": "214",
+            "debt": "110000000000000000",
+            "owner": "0xe4100614b2aa36b627d53ac624f5d69493a78b82",
+            "vaultId": "142"
+        },
+        {
+            "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+            "collateral": "500000000000000000",
+            "currentRatio": "200",
+            "debt": "3019197469882041000",
+            "owner": "0xd2b3c6d3fdd021a7bee5173d47c973a4652779fa",
+            "vaultId": "150"
+        },
+        {
+            "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+            "collateral": "1500000000000000000",
+            "currentRatio": "200",
+            "debt": "9521212073300521000",
+            "owner": "0xe3d44b0be18f0a0d703fdb07ece2309ed2c698b4",
+            "vaultId": "153"
+        },
+        {
+            "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+            "collateral": "990000000000000000",
+            "currentRatio": "200",
+            "debt": "4689725392891852000",
+            "owner": "0x4c979b7648044a198e7e918f88f2c72f9544f37d",
+            "vaultId": "25"
+        },
+        {
+            "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+            "collateral": "990000000000000000",
+            "currentRatio": "200",
+            "debt": "4682444519686238000",
+            "owner": "0xa0fa93efb404d4083aca0f958e10a42d16521a70",
+            "vaultId": "29"
+        },
+        {
+            "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+            "collateral": "985000000000000000",
+            "currentRatio": "200",
+            "debt": "4665670838191148000",
+            "owner": "0xc3d461ae8e3b29a1dca37729c4575e0d309e620d",
+            "vaultId": "30"
+        },
+        {
+            "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+            "collateral": "750000000000000000",
+            "currentRatio": "200",
+            "debt": "3540645740177988300",
+            "owner": "0x1a51bd2d1ebcd646f398d8a6608bb3741a7be613",
+            "vaultId": "35"
+        },
+        {
+            "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+            "collateral": "6000000000000000000",
+            "currentRatio": "201",
+            "debt": "28000000000000000000",
+            "owner": "0x6f7397493dc022e909a3d31a63812f4a5f9e7c5e",
+            "vaultId": "39"
+        },
+        {
+            "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+            "collateral": "1999839247000000000",
+            "currentRatio": "200",
+            "debt": "9241467563644344000",
+            "owner": "0x615a838accede19e85703b105cb7d021550bd824",
+            "vaultId": "53"
+        },
+        {
+            "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+            "collateral": "90000000000000000",
+            "currentRatio": "205",
+            "debt": "480000000000000000",
+            "owner": "0xd779168d8dcefbb109e7aef2293695b767baf298",
+            "vaultId": "62"
+        },
+        {
+            "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+            "collateral": "1000000000000000000",
+            "currentRatio": "204",
+            "debt": "6000000000000000000",
+            "owner": "0xbe6946830d5f7e94898899619f33eb56e8bbfa45",
+            "vaultId": "63"
+        },
+        {
+            "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+            "collateral": "2500000000000000000",
+            "currentRatio": "200",
+            "debt": "17287279978373554000",
+            "owner": "0xd391a9519cf25ecfeab3dc71d44f5deba8367575",
+            "vaultId": "65"
+        },
+        {
+            "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+            "collateral": "480000000000000000",
+            "currentRatio": "210",
+            "debt": "3300000000000000000",
+            "owner": "0x48d7e9b143a3cee16416f6665c5a635fa052a25e",
+            "vaultId": "67"
+        },
+        {
+            "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+            "collateral": "5000000000000000000",
+            "currentRatio": "200",
+            "debt": "36275269974982720000",
+            "owner": "0xe58c5e457467850bfede939c6069da94b64046d9",
+            "vaultId": "70"
+        },
+        {
+            "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+            "collateral": "10000000000000000000",
+            "currentRatio": "201",
+            "debt": "75000000000000000000",
+            "owner": "0x76d026013f6bea2b487bbba8c1dd8d9c66556ae2",
+            "vaultId": "73"
+        }
+    ]
+}
