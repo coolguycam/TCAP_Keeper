@@ -33,9 +33,27 @@ def keep():
 	BTC_price = WBTC_contract.functions.latestRoundData().call()
 	TCAP_price = TCAP_contract.functions.latestRoundData().call()
 
-	event_filter = contract.events.LogInitializeVault.createFilter(fromBlock=0, toBlock="latest")
-	event_list = event_filter.get_all_entries()
-	print(event_list)
+	eth = web3.fromWei(ETH_price[1], 'ether')
+	tcap = web3.fromWei(TCAP_price[1], 'ether')
+	print(eth, tcap)
+	with open('vault.json') as data_file:
+		data = json.load(data_file)
+		for v in data:
+			iden = int(v["vaultId"])
+			colat = int(v["collateral"])
+			debt = int(v["debt"])
+			print(iden)
+			try:
+				if ((colat * eth) / (debt * tcap)) < 205:
+					print(contract.functions.liquidationReward(iden).call())
+					print(contract.functions.requiredLiquidationTCAP(iden).call())
+			except:
+				print("Safe Math error")
+
+#			print(v["debt"])
+#	event_filter = contract.events.LogInitializeVault.createFilter(fromBlock=0, toBlock="latest")
+#	event_list = event_filter.get_all_entries()
+#	print(event_list)
 
 
 
@@ -47,7 +65,7 @@ def keep():
 #print(contract.functions.liquidationReward(liquidable[0]).call(), '\n')
 #print(web3.fromWei(reward, 'ether'))
 #print(web3.fromWei(requiredTCAP, 'ether'))
-#print(contract.functions.requiredLiquidationTCAP(73).call())
+
 
 
 if __name__ == "__main__":
