@@ -18,8 +18,8 @@ def keep():
 	contract = web3.eth.contract(address=tcap_address, abi=tcap_abi)
 
 	ETH_address = '0x8A753747A1Fa494EC906cE90E9f37563A8AF630e'
-	DAI_address = '0x74825DbC8BF76CC4e9494d0ecB210f676Efa001D'
-	WBTC_address = '0xECe365B379E1dD183B20fc5f022230C044d51404'
+#	DAI_address = '0x74825DbC8BF76CC4e9494d0ecB210f676Efa001D'
+#	WBTC_address = '0xECe365B379E1dD183B20fc5f022230C044d51404'
 	TCAP_address = '0x9Dcf949BCA2F4A8a62350E0065d18902eE87Dca3'
 
 	ETH_contract = web3.eth.contract(address=ETH_address, abi=chainlink_abi)
@@ -33,41 +33,41 @@ def keep():
 #	BTC_price = WBTC_contract.functions.latestRoundData().call()
 	TCAP_price = TCAP_contract.functions.latestRoundData().call()
 
-	eth = web3.fromWei(ETH_price[1], 'ether')
-	tcap = web3.fromWei(TCAP_price[1], 'ether')
-	
-	with open('vault.json') as data_file:
-		data = json.load(data_file)
-		for v in data:
-			iden = int(v["vaultId"])
-			colat = int(v["collateral"])
-			debt = int(v["debt"])
-			ctcap = int((colat / eth) / tcap)
-			req = int(((((debt * 200) / 100) - ctcap) * 100) / (9 / 10))
-			try:
-				if req < 205:
-					print(contract.functions.liquidationReward(iden).call())
-					print(contract.functions.requiredLiquidationTCAP(iden).call())
-			except:
-				print("Safe Math error")
-				contract.functions.liquidateVault(iden, req).call()
-				
+#	eth = web3.fromWei(ETH_price[1], 'ether')
+#	tcap = web3.fromWei(TCAP_price[1], 'ether')
 
-#			print(v["debt"])
+	try:
+		rew = contract.functions.liquidationReward(62).call()
+		req = contract.functions.requiredLiquidationTCAP(62).call()
+		if rew > req:
+			contract.functions.liquidateVault(62, req).call()
+	except:
+		req = contract.functions.requiredLiquidationTCAP(62).call()
+		print("SafeMath: subtraction overflow")
+		contract.functions.liquidateVault(62, req).call()
+	
+#	with open('vault.json') as data_file:
+#		data = json.load(data_file)
+#		for v in data:
+#			iden = int(v["vaultId"])
+#			print(iden)
+#			colat = int(v["collateral"])
+#			debt = int(v["debt"])
+#			ctcap = int((colat / eth) / tcap)
+#			req = int(((((debt * 200) / 100) - ctcap) * 100) / (9 / 10))
+			#  try:
+			#  	rew = contract.functions.liquidationReward(iden).call()
+			#  	req = contract.functions.requiredLiquidationTCAP(iden).call()
+			#  	if req < rew:
+			#  		print(contract.functions.liquidationReward(iden).call())
+			#  		print(contract.functions.requiredLiquidationTCAP(iden).call())
+			#  except:
+			#  	print("Safe Math error")
+			#  	contract.functions.liquidateVault(iden, req).call()
+				
 #	event_filter = contract.events.LogInitializeVault.createFilter(fromBlock=0, toBlock="latest")
 #	event_list = event_filter.get_all_entries()
 #	print(event_list)
-
-
-
-#wault = contract.functions.getVault().call()
-
-
-#print(web3.fromWei(wault[3], 'ether'))
-#print(liquidable, '\n')
-#print(contract.functions.liquidationReward(liquidable[0]).call(), '\n')
-#print(web3.fromWei(reward, 'ether'))
-#print(web3.fromWei(requiredTCAP, 'ether'))
 
 
 
