@@ -55,10 +55,20 @@ def keep():
 			print("Reward is ", rew)
 			task = contract.functions.getVaultRatio(iden).call()
 			print("Tasks say ", task)
-			check = contract.functions.requiredLiquidationTCAP(iden).call()
-			print(web3.fromWei(check, 'ether'))
-			response = contract.functions.liquidateVault(iden, check).call()
-			print(response)
+			try:
+				if task < 199:
+					check = contract.functions.requiredLiquidationTCAP(iden).call()
+					print(web3.fromWei(check, 'ether'))
+					fee = contract.functions.getFee(check).call()
+					print("Burn fee ", web3.fromWei(fee, 'ether'), "\n")
+				else:
+					print("Not liquidable \n")
+			except:
+				print("ERROR with fee \n")
+#			response = contract.functions.liquidateVault(iden, check).call()
+#			print("True _amount ", response)
+#			fee = contract.functions.getFee(check).call()
+#			print("Burn fee ", web3.fromWei(fee, 'ether'), "\n")
 			# try:
 			# 	if rew > req:
 			# 		response = contract.functions.liquidateVault(iden, check).call()
