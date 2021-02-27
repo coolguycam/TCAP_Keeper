@@ -4,7 +4,7 @@ from web3 import Web3
 #from decimal import *
 
 #TCAP Orchestrator contract abi
-def keep():
+class keep():
 	load_dotenv()
 	API_KEY = os.getenv("API_KEY")
 	PRIVATE_KEY = os.getenv("PRIVATE_KEY")
@@ -40,27 +40,46 @@ def keep():
 	print("ETH Price is ", eth)
 	print("TCAP Price is ", tcap)
 
-	vaults = [73]
-	for v in vaults:
-		iden = v
-		check = contract.functions.requiredLiquidationTCAP(iden).call()
-		print("Required TCAP ", web3.fromWei(check, 'ether'))
-		fee = contract.functions.getFee(check).call()
-		print("Burn fee ", web3.fromWei(fee, 'ether'))
-		try:
-			liquidate_txn = contract.functions.liquidateVault(iden, check).buildTransaction({
-				'value': fee,
-				'chainId': 4,
-				'gas': 1000000,
-				'gasPrice': web3.toWei('1', 'gwei'),
-				'nonce': nonce,
-			})
-			signed_txn = web3.eth.account.signTransaction(liquidate_txn, private_key=PRIVATE_KEY)
-			txn_receipt = web3.eth.sendRawTransaction(signed_txn.rawTransaction)
-			print(web3.toHex(txn_receipt), "\n")
-			nonce += 1
-		except:
-			print("No such luck")
+	vaults = []
+	num = 0
+
+	with open('ethVaults.json') as data_file:
+		data = json.load(data_file)
+		for v in data:
+			vId = int(v["vaultId"])
+			try:
+				ratio = contract.functions.getVaultRatio(vId).call()
+				req = web3.fromWei(contract.functions.requiredLiquidationTCAP(vId).call(), 'ether')
+				if (ratio > 0 and ratio < 190) and req < 5:
+					num += req
+					vaults.append(vId)
+			except:
+				pass
+
+	
+	print(vaults)
+	print(num)
+	
+	# for v in vaults:
+	# 	iden = v
+	# 	check = contract.functions.requiredLiquidationTCAP(iden).call()
+	# 	print("Required TCAP ", web3.fromWei(check, 'ether'))
+	# 	fee = contract.functions.getFee(check).call()
+	# 	print("Burn fee ", web3.fromWei(fee, 'ether'))
+	# 	try:
+	# 		liquidate_txn = contract.functions.liquidateVault(iden, check).buildTransaction({
+	# 			'value': fee,
+	# 			'chainId': 4,
+	# 			'gas': 1000000,
+	# 			'gasPrice': web3.toWei('1', 'gwei'),
+	# 			'nonce': nonce,
+	# 		})
+	# 		signed_txn = web3.eth.account.signTransaction(liquidate_txn, private_key=PRIVATE_KEY)
+	# 		txn_receipt = web3.eth.sendRawTransaction(signed_txn.rawTransaction)
+	# 		print(web3.toHex(txn_receipt), "\n")
+	# 		nonce += 1
+	# 	except:
+	# 		print("No such luck")
 
 	# with open('vault.json') as data_file:
 	# 	data = json.load(data_file)

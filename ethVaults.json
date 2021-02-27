@@ -1,0 +1,1386 @@
+[
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "1000000000000000000",
+        "debt": "1000000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-1",
+        "owner": "0xf03307c4ac66692ffcac69988182dd17f4f3aaaf",
+        "vaultId": "1"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "0",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-10",
+        "owner": "0xab432194c3830bb04aa11ff16dafddff7b03c7ad",
+        "vaultId": "10"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "1400000000000000000",
+        "debt": "1600000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-100",
+        "owner": "0xe5c5fdc91a8018e4767da0caa1325644b3c092ea",
+        "vaultId": "100"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "900000000000000000",
+        "debt": "5000000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-101",
+        "owner": "0x8f4cbc488a1a0707416c50f82ba699f63cafb0e0",
+        "vaultId": "101"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "94397257533665704",
+        "debt": "622791909603541769",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-102",
+        "owner": "0x134afcde878cc07e8407d2becde936d3643442f8",
+        "vaultId": "102"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "195000000000000000",
+        "debt": "300000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-103",
+        "owner": "0xc70b0b44e47e8604b4234f2d2d8e79540b0cf64b",
+        "vaultId": "103"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "500000000000000000",
+        "debt": "2000000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-104",
+        "owner": "0x2b511c8ee935d320c3cc966136c19dba1c11d012",
+        "vaultId": "104"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "440000000000000000",
+        "debt": "2300000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-105",
+        "owner": "0x873d76049ac71619538849d1f97bc50645a5e6ff",
+        "vaultId": "105"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "3000000000000000000",
+        "debt": "10000000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-106",
+        "owner": "0x2c4cb64b5a67e963c43fdcdc470b7301e125e42b",
+        "vaultId": "106"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "36500000000000000000",
+        "debt": "228000000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-107",
+        "owner": "0xeecc05af13bf66644b97f1974469f5bf6a6b13a6",
+        "vaultId": "107"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "0",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-108",
+        "owner": "0x76f5a0069f74df9b27b372649dce3e70f07efc6e",
+        "vaultId": "108"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "6000000000000000000",
+        "debt": "20000000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-109",
+        "owner": "0x334df938dd540cc313f52053d77256cce2f8c1c4",
+        "vaultId": "109"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "8600000000000000000",
+        "debt": "30000000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-11",
+        "owner": "0x92c20f715472aad2c7fc7284f0c2e4fad39e28af",
+        "vaultId": "11"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "0",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-110",
+        "owner": "0x1d3dcec04a7c7936356e87549783054ce61a2061",
+        "vaultId": "110"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "12900000000000000000",
+        "debt": "64000000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-111",
+        "owner": "0x3387a93be56f15970d907182c261f77d2d47d7d2",
+        "vaultId": "111"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "20880000000000000000",
+        "debt": "86000000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-112",
+        "owner": "0x3ea8a88dc7c5930c6ee57228a7bfe43a4f876fd3",
+        "vaultId": "112"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "7000000000000000000",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-113",
+        "owner": "0xb67629e8df0ac72ee4829794f423fea8e61ea84d",
+        "vaultId": "113"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "250000000000000000",
+        "debt": "1000000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-114",
+        "owner": "0x24728c8168f4c75eb394498be69a021f053fd740",
+        "vaultId": "114"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "6000000000000000",
+        "debt": "28132687780691538",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-115",
+        "owner": "0xcd642a3c33c75e81c2b436c9f8498356f0f51c79",
+        "vaultId": "115"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "2000000000000000000",
+        "debt": "10000000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-116",
+        "owner": "0x3c151f9b3a2510e7d1c557740f72d3d472458551",
+        "vaultId": "116"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "1410000000000000000",
+        "debt": "7000000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-117",
+        "owner": "0x5d8b0f0827b5eb7761f5e021b7c7b48e9c0cf532",
+        "vaultId": "117"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "50000000000000000",
+        "debt": "280000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-118",
+        "owner": "0xa24e93b119f12c81ec5c100624233ff6e824e3bc",
+        "vaultId": "118"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "400000000000000000",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-119",
+        "owner": "0x0e2a267c5df2b4869b75bcccf1e18fa41eedf85e",
+        "vaultId": "119"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "500000000000000000",
+        "debt": "2212957624990217200",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-12",
+        "owner": "0x78ea283b810c0d58e99e344486c6be455e623df0",
+        "vaultId": "12"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "480000000000000000",
+        "debt": "2100000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-120",
+        "owner": "0x75832253cde55cfeafec4b5a767bc727d063abc0",
+        "vaultId": "120"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "0",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-121",
+        "owner": "0xc385225e68f33218a3077788ee8338160ed56610",
+        "vaultId": "121"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "18000000000000000000",
+        "debt": "71225836419069470000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-122",
+        "owner": "0x2b3a185dad33dac98873d68a552f29c0cdb58d25",
+        "vaultId": "122"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "1230000000000000000",
+        "debt": "6250000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-123",
+        "owner": "0xf6c89f52d7316aa6b5e3494879d8d8c65b8950f1",
+        "vaultId": "123"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "5550000000000000000",
+        "debt": "24000000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-124",
+        "owner": "0xc0c05c052db83e9b0cc47ef89d540b272e79ac81",
+        "vaultId": "124"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "40240000000000000000",
+        "debt": "200000000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-125",
+        "owner": "0x753a2b3f9547f9b37194eb332f293e69452b3494",
+        "vaultId": "125"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "4000000000000000000",
+        "debt": "18000000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-126",
+        "owner": "0x644836087607f58e21657503963bb139587dcd9d",
+        "vaultId": "126"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "4000000000000000000",
+        "debt": "16000000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-127",
+        "owner": "0x8296a591315b5af779d845e59b6dad303b4a855a",
+        "vaultId": "127"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "1000000000000000000",
+        "debt": "1000000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-128",
+        "owner": "0x8f319b5cabc69d0dc9488ada2a1692bc3ec4e8d8",
+        "vaultId": "128"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "0",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-129",
+        "owner": "0x250b1b83e719edb86f423732e12f6627c14e7b7b",
+        "vaultId": "129"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "1110000000000000000",
+        "debt": "4800000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-13",
+        "owner": "0x4632d39cb2b64acdbf1df5be19daa1b77158cbfb",
+        "vaultId": "13"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "10000000000000000000",
+        "debt": "50000000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-130",
+        "owner": "0x767d222a509d107522e50161ca17ffcf0e5aa3de",
+        "vaultId": "130"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "1800000000000000000",
+        "debt": "2000000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-131",
+        "owner": "0x3bc6826bb525c833ab375f91ed46eb72565847ce",
+        "vaultId": "131"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "67300000000000000",
+        "debt": "130000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-132",
+        "owner": "0x246d4f0fd774d76b9c221bc90b819261e7507835",
+        "vaultId": "132"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "24000000000000000000",
+        "debt": "75000000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-133",
+        "owner": "0xd1bc4131bfe891a42c2756e6a80d052e25bbefec",
+        "vaultId": "133"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "5000000000000000",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-134",
+        "owner": "0xda35e2105dd3c5a241fbcd1f624302d92a967057",
+        "vaultId": "134"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "5000000000000000000",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-135",
+        "owner": "0x60c16d5d28eaffb97973817e6f1a84811f439381",
+        "vaultId": "135"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "0",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-136",
+        "owner": "0x4ada1b9d9fe28abd9585f58cfeed2169a39e1c6b",
+        "vaultId": "136"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "180000000000000000",
+        "debt": "700000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-137",
+        "owner": "0x3a832732205ef025b37a684c0243bf0b4427101d",
+        "vaultId": "137"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "0",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-138",
+        "owner": "0x775ef0881e822378dd8a5331209871355d072c3f",
+        "vaultId": "138"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "4500000000000000000",
+        "debt": "17000000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-139",
+        "owner": "0x81b02b28f1b6523da5786f017359b4c6a3288051",
+        "vaultId": "139"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "800000000000000000",
+        "debt": "4000000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-14",
+        "owner": "0x02a0f1a59940dddb35a38327e93d7abb49e285b1",
+        "vaultId": "14"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "1000000000000000000",
+        "debt": "1510720404315673000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-140",
+        "owner": "0x30940cf19fdcd08dcaeb459b374c8400c3eb5772",
+        "vaultId": "140"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "14700000000000000000",
+        "debt": "50000000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-141",
+        "owner": "0xb4aca4d18c3f3ad9bfddd0a0dc8f669d51798dea",
+        "vaultId": "141"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "20000000000000000",
+        "debt": "110000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-142",
+        "owner": "0xe4100614b2aa36b627d53ac624f5d69493a78b82",
+        "vaultId": "142"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "0",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-143",
+        "owner": "0xae2ecaa1997b188cbcb4d25e1cfccb478535ea1d",
+        "vaultId": "143"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "69900000000000000",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-144",
+        "owner": "0x05249e5b2ede1e0ecd60363e276ef52fcb16092c",
+        "vaultId": "144"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "1000000000000000000",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-145",
+        "owner": "0x2cb62778ebd89e40f97d924a7621763daad85773",
+        "vaultId": "145"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "1200000000000000000",
+        "debt": "6100000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-146",
+        "owner": "0x84753be77a19d276f7690caec6aab5750fbc48f0",
+        "vaultId": "146"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "7000000000000000000",
+        "debt": "1000000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-147",
+        "owner": "0x368c4e8933cf3577ccc394b4e05b4e03691493f1",
+        "vaultId": "147"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "0",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-148",
+        "owner": "0xb7dce7ba6e688e87f2254d08f02cac1168ec6049",
+        "vaultId": "148"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "0",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-149",
+        "owner": "0xce2da19c5faf3e04dc9ad62dea802b2bc51ebe2d",
+        "vaultId": "149"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "0",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-15",
+        "owner": "0x8090487fca05bbee5f30117df57dca5630919a50",
+        "vaultId": "15"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "500000000000000000",
+        "debt": "3019197469882041000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-150",
+        "owner": "0xd2b3c6d3fdd021a7bee5173d47c973a4652779fa",
+        "vaultId": "150"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "30000000000000000000",
+        "debt": "121000000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-151",
+        "owner": "0x581b3d2cdcd3911d9bbf503550c3f6c1f3c997b1",
+        "vaultId": "151"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "0",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-152",
+        "owner": "0xe976d8b0bb28539b5f95394782f47a1ff61f1e20",
+        "vaultId": "152"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "1500000000000000000",
+        "debt": "9521212073300521000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-153",
+        "owner": "0xe3d44b0be18f0a0d703fdb07ece2309ed2c698b4",
+        "vaultId": "153"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "0",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-154",
+        "owner": "0x513665bf60a482f1f638fd1cdf03fb0c58c4e64e",
+        "vaultId": "154"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "7000000000000000",
+        "debt": "30000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-155",
+        "owner": "0x5d81f20893e2f2cdd95d167e2b51ce3a7d9a4d65",
+        "vaultId": "155"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "2900000000000000000",
+        "debt": "15222042193428306000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-156",
+        "owner": "0x221d6be21d68d0480bd9d87febfd47abcd6d1181",
+        "vaultId": "156"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "1000000000000000",
+        "debt": "1000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-157",
+        "owner": "0x069dd3c58ed94a6ba036cfa05ba45a152e6a925a",
+        "vaultId": "157"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "9600000000000000",
+        "debt": "5000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-158",
+        "owner": "0xe32e899dfefded2a7fda6054ec6af8147151bde5",
+        "vaultId": "158"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "0",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-159",
+        "owner": "0xd7137fc5ace1327b816de9271f12883eb885435e",
+        "vaultId": "159"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "0",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-16",
+        "owner": "0x0418eb1c683ec746bd4bb3bda03f1f0988389e30",
+        "vaultId": "16"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "90000000000000000",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-160",
+        "owner": "0xcea9ec3701832e9c5f105110916259b82572ef48",
+        "vaultId": "160"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "68699747000000000",
+        "debt": "300000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-161",
+        "owner": "0xd7316bd69b20b008efa263738f8968416eabda3c",
+        "vaultId": "161"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "20000000000000000",
+        "debt": "100000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-162",
+        "owner": "0x1fa6d728ada68e3be9e4bb14caf6a0334bd276e7",
+        "vaultId": "162"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "0",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-163",
+        "owner": "0x1f011a94c44bb602849a1637b6ec2b37dcf51083",
+        "vaultId": "163"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "14288000000000000000",
+        "debt": "48000000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-164",
+        "owner": "0xa0bf5b240634918c70d4ec9384dbd0111ef40b42",
+        "vaultId": "164"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "2990000000000000000",
+        "debt": "14000000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-165",
+        "owner": "0xf6897123f0f2d1343aae1b56ef61e84625dd0e67",
+        "vaultId": "165"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "0",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-166",
+        "owner": "0x767cf9fb87a2a6cfc7d4c1b6abb6ffd9e16bf642",
+        "vaultId": "166"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "15000000000000000000",
+        "debt": "15000000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-167",
+        "owner": "0x97470cad7594bbc21a6c0e4141dec6851f1a96ee",
+        "vaultId": "167"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "240000000000000000",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-168",
+        "owner": "0xcd9eb6980cb53bd5041f6301bdba99696555660f",
+        "vaultId": "168"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "110000000000000000",
+        "debt": "500000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-169",
+        "owner": "0x19419899494e64bde9e85761caf87e05abcf1f4f",
+        "vaultId": "169"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "0",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-17",
+        "owner": "0x36182337cbcbe10da6d8ea74eaacaf4d852444a5",
+        "vaultId": "17"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "24000000000000000",
+        "debt": "50000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-170",
+        "owner": "0x99e4a4d17acff700bb5a1fd5b9995dd2c1ddd0b3",
+        "vaultId": "170"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "0",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-171",
+        "owner": "0x5ad1b92540843a1d5a5a08efcd643da1c11ce77a",
+        "vaultId": "171"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "1000000000000000000",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-172",
+        "owner": "0xd455712e43582134f101a0c686d26548b5438a3b",
+        "vaultId": "172"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "1100000000000000000",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-173",
+        "owner": "0x950625692d2878ebea00f43c364e6e3cd399a4e3",
+        "vaultId": "173"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "1000000000000000000",
+        "debt": "2000000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-18",
+        "owner": "0x74a64c78657f0b753035cae35cbca76ac029827e",
+        "vaultId": "18"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "200000000000000000",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-19",
+        "owner": "0xc04bc1996320f27c0a6018cb370c9469a9dd3a4c",
+        "vaultId": "19"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "1000000000000000000",
+        "debt": "2000000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-2",
+        "owner": "0x31038a99cb7953bad6c88eb59cfdb58f798c4baa",
+        "vaultId": "2"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "1000000000000000000",
+        "debt": "4184613062831605400",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-20",
+        "owner": "0xbd12aa424c207e90b66402c1f0aec357e8b1ded7",
+        "vaultId": "20"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "200000000000000000",
+        "debt": "700000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-21",
+        "owner": "0xa28c68edc0f6b844959adab260a0d7742ce543e4",
+        "vaultId": "21"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "9400000000000000000",
+        "debt": "12000000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-22",
+        "owner": "0x2cad6658ae641a6cee952739323f52eea0a0b730",
+        "vaultId": "22"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "500000000000000000",
+        "debt": "2000000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-23",
+        "owner": "0xaf1fd82b52490810280e20906433ee7f720b7879",
+        "vaultId": "23"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "780000000000000000",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-24",
+        "owner": "0x8da1674d16fa5e5c8f4efbc4540888ba9f1fda4e",
+        "vaultId": "24"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "990000000000000000",
+        "debt": "4689725392891852000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-25",
+        "owner": "0x4c979b7648044a198e7e918f88f2c72f9544f37d",
+        "vaultId": "25"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "0",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-26",
+        "owner": "0x58531045854c0c2548ce0a192800558808c57c1a",
+        "vaultId": "26"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "250000000000000000",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-27",
+        "owner": "0x68c81d07ed36dc168cf073aa668d6d2dde8f11ef",
+        "vaultId": "27"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "540000000000000000",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-28",
+        "owner": "0xf97020862f4282dfb21b781e7b760ee63e212dfe",
+        "vaultId": "28"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "990000000000000000",
+        "debt": "4682444519686238000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-29",
+        "owner": "0xa0fa93efb404d4083aca0f958e10a42d16521a70",
+        "vaultId": "29"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "0",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-3",
+        "owner": "0x4c79d8aaa05333cc3cb841162580502f871ed0e9",
+        "vaultId": "3"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "985000000000000000",
+        "debt": "4665670838191148000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-30",
+        "owner": "0xc3d461ae8e3b29a1dca37729c4575e0d309e620d",
+        "vaultId": "30"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "980000000000000000",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-31",
+        "owner": "0x4a35dd01b9e259902996f7c436f379c2ce77e047",
+        "vaultId": "31"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "0",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-32",
+        "owner": "0x0f46540678c7e6d2ef983b382cc07fa815ab148c",
+        "vaultId": "32"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "0",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-33",
+        "owner": "0x6694fc7dab2f34b010bb87467f6cc6c2d4534f81",
+        "vaultId": "33"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "0",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-34",
+        "owner": "0xb0e95a31c073be2388720686f6ca4cd77b991ef7",
+        "vaultId": "34"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "750000000000000000",
+        "debt": "3540645740177988300",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-35",
+        "owner": "0x1a51bd2d1ebcd646f398d8a6608bb3741a7be613",
+        "vaultId": "35"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "440000000000000000",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-36",
+        "owner": "0xb37d882730ecc495a1faa4937ef3645790b00e89",
+        "vaultId": "36"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "555555599990000000",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-37",
+        "owner": "0xd60af91bfdb5daada1b3788fdd1c86d6d5259331",
+        "vaultId": "37"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "970000000000000000",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-38",
+        "owner": "0xfee5717f50769c148df42ba9b2dc2d8bb9eceff7",
+        "vaultId": "38"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "6000000000000000000",
+        "debt": "28000000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-39",
+        "owner": "0x6f7397493dc022e909a3d31a63812f4a5f9e7c5e",
+        "vaultId": "39"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "1000000000000000000",
+        "debt": "3000000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-4",
+        "owner": "0x209b9eeb1336cb5ffedd8d4e474840e553e812bd",
+        "vaultId": "4"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "1749905791000000000",
+        "debt": "1000000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-40",
+        "owner": "0xcbcf63c193866ad82ae05db88ac51047ab2b64cf",
+        "vaultId": "40"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "0",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-41",
+        "owner": "0x41381649b2231cafc8293f501bb3df422aeba5e4",
+        "vaultId": "41"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "0",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-42",
+        "owner": "0xde4fb35cb5a12fc5d980353a6660eb9546ce4c01",
+        "vaultId": "42"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "1900000000000000000",
+        "debt": "7100000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-43",
+        "owner": "0x6e44d9950d4e7004f78685d77005fff66dd63b97",
+        "vaultId": "43"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "0",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-44",
+        "owner": "0xf5a228295fbfbd2bed744ff354dbabbf20938e89",
+        "vaultId": "44"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "1000000000000000000",
+        "debt": "4000000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-45",
+        "owner": "0x03b64e601bf6312dd34f8955045cf6a8e18fac1f",
+        "vaultId": "45"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "0",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-46",
+        "owner": "0x77bc51c7dd3dddac29f865541f7f54bf2cba5536",
+        "vaultId": "46"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "1000000000000000000",
+        "debt": "3000000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-47",
+        "owner": "0xe5964efe4e250c677f1f474509de728a82d4bd37",
+        "vaultId": "47"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "0",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-48",
+        "owner": "0x22eb97417357b2040e0dfc3fad5c216a3ef4f89d",
+        "vaultId": "48"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "0",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-49",
+        "owner": "0xb47a83e84c3ec0136881e6a8d9a7a889c418d7b3",
+        "vaultId": "49"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "1000000000000000000",
+        "debt": "3500000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-5",
+        "owner": "0x9580701adbe5d02a7c494eb55a2d65442b182043",
+        "vaultId": "5"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "2900000000000000000",
+        "debt": "10474177442742603000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-50",
+        "owner": "0x9eed5fcbb5384c98af8413d31c4a716ab5387f8e",
+        "vaultId": "50"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "21980000000000000000",
+        "debt": "80000000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-51",
+        "owner": "0x166d2a648ed8aa80e7675f35748b261315eebb1c",
+        "vaultId": "51"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "300000000000000000",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-52",
+        "owner": "0x908e8e8084d660f8f9054aa8ad1b31380d04b08f",
+        "vaultId": "52"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "1999839247000000000",
+        "debt": "9241467563644344000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-53",
+        "owner": "0x615a838accede19e85703b105cb7d021550bd824",
+        "vaultId": "53"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "5900000000000000000",
+        "debt": "21000000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-54",
+        "owner": "0x76927e2ccab0084bd19cee74f78b63134b9d181e",
+        "vaultId": "54"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "1990000000000000000",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-55",
+        "owner": "0x2652cd7e8c0ba7e71fdfed2bcc008b6f139cdb8d",
+        "vaultId": "55"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "100000000000000000",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-56",
+        "owner": "0x1b01cc3e43c3f72c0cbfcb5948f89cc10895e8b5",
+        "vaultId": "56"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "0",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-57",
+        "owner": "0x98b79f2a5e86307e2c5373836cdc696381e4d31f",
+        "vaultId": "57"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "0",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-58",
+        "owner": "0x06e472733393215b33462a2c64c1f9040f1b7da5",
+        "vaultId": "58"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "1000000000000000000",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-59",
+        "owner": "0xc0c2387bc5ef8cd1e5ca3897ffeb26e664632ecd",
+        "vaultId": "59"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "0",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-6",
+        "owner": "0xa3d5691d67873a2f77138c02e9178ff2e91dd35a",
+        "vaultId": "6"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "900000000000000000",
+        "debt": "3000000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-60",
+        "owner": "0xa336c2f6a77907c4b64d79c4e01b3e6bdec2bb8b",
+        "vaultId": "60"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "18000000000000000000",
+        "debt": "55000000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-61",
+        "owner": "0x663786e29c4424464e814be50d62a62d47e9f646",
+        "vaultId": "61"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "90000000000000000",
+        "debt": "480000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-62",
+        "owner": "0xd779168d8dcefbb109e7aef2293695b767baf298",
+        "vaultId": "62"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "1000000000000000000",
+        "debt": "6000000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-63",
+        "owner": "0xbe6946830d5f7e94898899619f33eb56e8bbfa45",
+        "vaultId": "63"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "20000000000000000",
+        "debt": "100000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-64",
+        "owner": "0x25ce5af81f09642615b77af7d4ea5a5be652807e",
+        "vaultId": "64"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "2500000000000000000",
+        "debt": "17287279978373554000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-65",
+        "owner": "0xd391a9519cf25ecfeab3dc71d44f5deba8367575",
+        "vaultId": "65"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "0",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-66",
+        "owner": "0x5f67b369e5155edc4270f1e2615b70dac41e93ca",
+        "vaultId": "66"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "480000000000000000",
+        "debt": "3300000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-67",
+        "owner": "0x48d7e9b143a3cee16416f6665c5a635fa052a25e",
+        "vaultId": "67"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "200000000000000000",
+        "debt": "800000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-68",
+        "owner": "0x86d0aaa246cae6ed61a3378fab60a20bd3481a8a",
+        "vaultId": "68"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "0",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-69",
+        "owner": "0x2273218d22fb3e38fd35930fd01eccac35e402a0",
+        "vaultId": "69"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "999000000000000000",
+        "debt": "3900000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-7",
+        "owner": "0x4ddbb137b3a15258bdadf9576a5a45e9d2da5485",
+        "vaultId": "7"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "5000000000000000000",
+        "debt": "36275269974982720000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-70",
+        "owner": "0xe58c5e457467850bfede939c6069da94b64046d9",
+        "vaultId": "70"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "400000000000000000",
+        "debt": "2000000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-71",
+        "owner": "0xba07ec0917b5aa381838fc1fd2dfe36794454ce3",
+        "vaultId": "71"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "400000000000000000",
+        "debt": "2000000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-72",
+        "owner": "0xf0e929c7f1a9f4ad11d6255ae44fc4bfc2cf973e",
+        "vaultId": "72"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "10000000000000000000",
+        "debt": "75000000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-73",
+        "owner": "0x76d026013f6bea2b487bbba8c1dd8d9c66556ae2",
+        "vaultId": "73"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "0",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-74",
+        "owner": "0x72b871dc4fbca049a009ec9c3c3fdbd531befb5f",
+        "vaultId": "74"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "15151168461000000000",
+        "debt": "50921870274916014000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-75",
+        "owner": "0xd0fb3dde4ff67763afdc60b31364a26d89df73f6",
+        "vaultId": "75"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "15000000000000000000",
+        "debt": "70000000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-76",
+        "owner": "0x5e9b5f95975d4b1ba30b4f2f681e7b9f79744c24",
+        "vaultId": "76"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "500000000000000000",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-77",
+        "owner": "0xc7964cf98eb028ad27855c78b30e2474f920f7e5",
+        "vaultId": "77"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "800000000000000000",
+        "debt": "2000000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-78",
+        "owner": "0xff30eda500a381dfe1f8a8545aca8f94e1197266",
+        "vaultId": "78"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "400000000000000000",
+        "debt": "2000000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-79",
+        "owner": "0xff83b21b44682126d1ff31fd7bd19453d3cfd0c4",
+        "vaultId": "79"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "50000000000000000",
+        "debt": "156600000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-8",
+        "owner": "0xfa50671b1e38945774f0a5224160b45c8b545f29",
+        "vaultId": "8"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "400000000000000000",
+        "debt": "2000000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-80",
+        "owner": "0x7af2073fc36d91950bfb01be22e6e4c968c36751",
+        "vaultId": "80"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "900000000000000000",
+        "debt": "5000000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-81",
+        "owner": "0xa9458c85bfa99ac81194c12cde066caa6d84b81e",
+        "vaultId": "81"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "0",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-82",
+        "owner": "0xa22e6f0da5c3b22344b2d9fd491ec79d9f4e2022",
+        "vaultId": "82"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "0",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-83",
+        "owner": "0x80794e90aec34abdac27da20b1c96e2ab7d55531",
+        "vaultId": "83"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "350000000000000000",
+        "debt": "2000000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-84",
+        "owner": "0xcb1f697ef709cec20361d079a33ffc23323f13f6",
+        "vaultId": "84"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "300000000000000000",
+        "debt": "1000000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-85",
+        "owner": "0x17993eecc0011f326718d710264a01d68ab01a8f",
+        "vaultId": "85"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "0",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-86",
+        "owner": "0x48144bb5f94d3562311f342025556f34c54f1125",
+        "vaultId": "86"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "2000000000000000000",
+        "debt": "5000000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-87",
+        "owner": "0xcb016db66774bd5dd798fc3ac9c3bfcc06d68c84",
+        "vaultId": "87"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "1000000000000000000",
+        "debt": "1000000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-88",
+        "owner": "0x08155e161a9cf3db68e2661a451c9648c21f9976",
+        "vaultId": "88"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "4000000000000000000",
+        "debt": "10000000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-89",
+        "owner": "0x20de7720b27779aeb96dfc8cafcc2764b2cb1f30",
+        "vaultId": "89"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "63996080791000000000",
+        "debt": "90000000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-9",
+        "owner": "0xe590f02553b7e140ef191dce5101d802bbd0b22f",
+        "vaultId": "9"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "0",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-90",
+        "owner": "0x7912b4e8d032c07cd577daaed0b7a11fae1c4d15",
+        "vaultId": "90"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "2990000000000000000",
+        "debt": "15000000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-91",
+        "owner": "0x76c68d4c10a2c1a3a0eb5358a8264397b0f72ba6",
+        "vaultId": "91"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "3419825690000000000",
+        "debt": "16830000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-92",
+        "owner": "0x7b047df259b0e0bce33227248645a9b8b981971e",
+        "vaultId": "92"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "460000000000000000",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-93",
+        "owner": "0x094ea0a9fab54fbb82b409046349e4c98c666099",
+        "vaultId": "93"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "200000000000000000",
+        "debt": "1000000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-94",
+        "owner": "0xd621a85055da0f2c8b5df1a144b30329ac80a254",
+        "vaultId": "94"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "1000000000000000000",
+        "debt": "5000000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-95",
+        "owner": "0x290c7ee8ee105b00e1648cd688ccfadb393b94b1",
+        "vaultId": "95"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "7000000000000000000",
+        "debt": "25000000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-96",
+        "owner": "0x65685d2a41ec61ccf695729abda154cc9189c1f6",
+        "vaultId": "96"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "10000000000000000",
+        "debt": "20000000000000000",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-97",
+        "owner": "0xc0d3481a32184ecd22f54fad94b908cc1ea3576a",
+        "vaultId": "97"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "100000000000000000",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-98",
+        "owner": "0xa5c8a62f221adeaf8a7c0bef60044861d9c4b400",
+        "vaultId": "98"
+    },
+    {
+        "address": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3",
+        "collateral": "40000000000000000",
+        "debt": "0",
+        "id": "0xbb1fbbce70de4afe5f80c75c9e13e8e8c4f776f3-99",
+        "owner": "0x7889bd1004aefbca03f5280dc20e5889772d6fd7",
+        "vaultId": "99"
+    }
+]

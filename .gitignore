@@ -1,3 +1,4 @@
 .env
 vault.json
 logs.txt
+myvault.py
